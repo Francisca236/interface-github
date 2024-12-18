@@ -1,2 +1,2 @@
 # interface-github
-projet pour apprendre l;interface github
+Apprendre les bases de l'interface github
